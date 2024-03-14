@@ -29,21 +29,7 @@ public class primitiveDT2 {
 
         int a=Character.getNumericValue('a');
         System.out.println("A is: "+a);
-        char c='a';
-        System.out.println(c);
-        int xa=c;
-        System.out.println("XA is: "+xa);
-
-        System.out.println((int)('a'));
-        System.out.println((int)('A'));
-
-        char c3='e';
-        int e=c3='a';
-        System.out.println("E is: "+e);
-
-        int z=x+y;
-        System.out.println("Z is: "+z);
-
+        
         int m=5;
         int n=m++;
         System.out.println("M is "+m+", N is: "+n);
